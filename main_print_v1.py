@@ -1,7 +1,7 @@
 #1
 print("Hello world!")
 
-name = "bomin"
+name = "이보민"
 age = 20
 score = 95.5
 
